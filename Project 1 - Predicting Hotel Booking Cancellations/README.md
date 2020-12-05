@@ -28,4 +28,7 @@ Our only data source for this analysis will be the [Hotel Booking Demand](https:
 
 This dataset consists of a single csv file ```hotel_bookings.csv``` (available in this repository, or in the Kaggle link above). 
 
+# Blog Post
+
+A [Medium Blog Post](https://dfayos.medium.com/booking-a-hotel-a-battle-of-wits-86a77ea79fcf) has been written, based on the findings of this analysis.
 

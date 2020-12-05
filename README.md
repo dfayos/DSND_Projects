@@ -10,3 +10,5 @@ For more detailed information about this specific project, refer to the [README]
 
 [Project Notebook - Hotel Bookings](https://github.com/dfayos/DSND_Projects/blob/main/Project%201%20-%20Predicting%20Hotel%20Booking%20Cancellations/Booking%20a%20Hotel%20-%20Data%20Analysis%20and%20ML%20Prediction.ipynb)
 
+[Medium Blog Post](https://dfayos.medium.com/booking-a-hotel-a-battle-of-wits-86a77ea79fcf)
+
